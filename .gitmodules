@@ -1,0 +1,15 @@
+[submodule "xel-miner"]
+	path = xel-miner
+	url = https://github.com/xel-software/Miner-Mainnet
+[submodule "xel-computation-engine"]
+	path = xel-computation-engine
+	url = https://github.com/xel-software/Computationwallet-Mainnet
+[submodule "xel-lite-wallet"]
+	path = xel-lite-wallet
+	url = https://github.com/xel-software/Litewallet-Mainnet
+[submodule "xel-xeline"]
+	path = xel-xeline
+	url = https://github.com/xel-software/xeline
+[submodule "xel-block-explorer"]
+	path = xel-block-explorer
+	url = https://github.com/xel-software/community_explorer
