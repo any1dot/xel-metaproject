@@ -1,0 +1,24 @@
+
+/* Custom Properties */
+
+:root {
+  --color:          #fff;
+  --color-subtle:   #6253f2;
+  --color-strong:   #52bef4;
+  --color-link:     #52bef4;
+
+  --color-border:   #0b0c21;
+  --color-bg:       #0b0c21;
+
+  --color-accent:   black; /* Fallback */
+}
+
+
+/* Category Colors */
+
+.u-category-windows       { --color-accent: hsl(116, 30%, 36%); }
+.u-category-menu          { --color-accent: hsl(194, 60%, 36%); }
+.u-category-native-ui     { --color-accent: hsl(222, 53%, 50%); }
+.u-category-communication { --color-accent: hsl(285, 47%, 46%); }
+.u-category-system        { --color-accent: hsl(330, 65%, 48%); }
+.u-category-media      {     --color-accent: hsl(0, 0%, 40%); }
